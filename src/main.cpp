@@ -4,5 +4,6 @@ int main()
 {
 	std::cout << "Hello\n";
 	// Change something in the code.
+	// Test.
 	return 0;
 }
