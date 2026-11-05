@@ -1,3 +1,10 @@
-# Terraria-remake
+# My first git steps
 
-My first C++ Game!
+Approach to learn working with a github repo.
+
+TODOs:
+- [x] Create a repo (on Github & locally)
+- [x] Upload to Github
+- [x] Push changes
+- [x] Test collisions
+- [x] Visit recent commits
